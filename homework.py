@@ -35,5 +35,3 @@ print_top_10('newsfr.txt')
 print_top_10('newsit.txt')
 print_top_10('newsafr.txt')
 print_top_10('newscy.txt')
-
-
